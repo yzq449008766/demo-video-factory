@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+work/
+out/
+*.mp4
+*.wav
+*.mp3
+*.srt
